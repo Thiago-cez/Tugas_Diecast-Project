@@ -1,0 +1,18 @@
+[
+    {
+        "id": 9,
+        "nome":"Skyline GT-R[R32]",
+        "img":"/images/Skyline-GT-R[R32].jpg",
+        "marca": "Nissan",
+        "lote":"C",
+        "ano": "2023"
+    },
+    {
+        "id": 10,
+        "nome":"Aston Martin Vantage GTE",
+        "img":"images/Aston-Martin-Vantage-GTE.jpg",
+        "marca": "Aston Martin",
+        "lote":"C",
+        "ano": "2023"
+    }
+]

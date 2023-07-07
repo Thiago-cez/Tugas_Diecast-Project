@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "nome":"Nissan Patrol Custom",
+        "img":"images/Nissan-Patrol-Custom.jpg",
+        "marca": "Nissan",
+        "lote":"A",
+        "ano": "20233"
+    },
+    {
+        "id": 1,
+        "nome":"Ford Escort RS2000",
+        "img":"images/Ford-Escort-RS2000.jpg",
+        "marca": "Ford ",
+        "lote":"A",
+        "ano": "2023"
+    },
+    {
+        "id": 2,
+        "nome":"LB Super Silhouette Nissan Silvia (s15)",
+        "img":"images/LB-Super-Silhouette-Nissan-Silvia.jpg",
+        "marca": "Nissan",
+        "lote":"A",
+        "ano": "2023"
+    },
+    {
+        "id": 3,
+        "nome":"Ford Sierra",
+        "img":"images/Ford-Sierra.jpg",
+        "marca": "Ford",
+        "lote":"A",
+        "ano": "2023"
+    },
+    {
+        "id": 4,
+        "nome":"Subaru WRX",
+        "img":"/images/Subaru-WRX.jpg",
+        "marca": "Subaru",
+        "lote":"A",
+       "ano": "2023"
+    }
+]

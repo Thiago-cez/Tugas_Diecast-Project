@@ -1,0 +1,34 @@
+[
+    {
+        "id": 5,
+        "nome":"Standard Kart",
+        "img":"/images/Standard-Kart.jpg",
+        "marca": "Fantasia",
+        "lote":"B",
+        "ano": "2023"
+    },
+    {
+        "id": 6,
+        "nome":"Mustang SVO",
+        "img":"/images/Mustang-SVO.jpg",
+        "marca": "Ford",
+        "lote":"B",
+        "ano": "2023"
+    },
+    {
+        "id": 7,
+        "nome":"Kool Kombi",
+        "img":"images/Kool-Kombi.jpg",
+        "marca": "Wolksvagem",
+        "lote":"B",
+        "ano": "2023"
+    },
+    {
+        "id": 8,
+        "nome":"Rodger Dodger",
+        "img":"/images/Rodger-Dodger.jpg",
+        "marca": "Fantasia",
+        "lote":"B",
+        "ano": "2023"
+    }
+]
